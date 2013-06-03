@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char font[] = "InconsolataLGC:size=10";
+static char font[] = "InconsolataLGC:size=8";
 static int borderpx = 2;
 static char shell[] = "/bin/zsh";
 
